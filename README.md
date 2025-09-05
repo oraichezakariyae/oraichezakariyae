@@ -4,12 +4,7 @@ Bienvenue sur mon profil GitHub !
 Je suis passionné par le développement web, l’IoT et les technologies modernes. 🚀  
 
 ---
-# 👨‍💻 Zakaria | Développeur Full Stack  
 
-Bienvenue sur mon profil GitHub !  
-Je suis passionné par le développement web, l’IoT et les technologies modernes. 🚀  
-
----
 
 ## 🚀 À propos de moi  
 
