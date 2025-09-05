@@ -13,7 +13,7 @@ Je suis passionné par le développement web, l’IoT et les technologies modern
 - 🌍 Localisation : Maroc  
 - 📌 Créateur de projets : [exemple : système de détection de pollution de l’eau avec ESP32, site e-commerce WebStore, etc.]  
 
-📫 **Contact** : [LinkedIn]([)](www.linkedin.com/in/oraiche-zakaria-9ba007331) | [Portfolio](https://tonportfolio.github.io/)  
+📫 **Contact** : [LinkedIn](www.linkedin.com/in/oraiche-zakaria-9ba007331) | [Portfolio](https://tonportfolio.github.io/)  
 
 ---
 
