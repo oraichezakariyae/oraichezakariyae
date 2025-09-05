@@ -7,13 +7,13 @@ Je suis passionné par le développement web, l’IoT et les technologies modern
 
 ## 🚀 À propos de moi  
 
-- 🎓 Étudiant en [ta filière : Informatique / Mathématiques appliquées / autre]  
-- 💡 Intéressé par : Développement Web, IoT, Machine Learning, Bases de données, Cloud Computing  
+- 🎓 Étudiant en EST Sidi Bennour  
+- 💡 Intéressé par : Développement Web, IoT, Machine Learning, Bases de données  
 - 🛠️ Technologies maîtrisées : C, C++, Java, Python, HTML, CSS, JavaScript, PHP, MySQL, Oracle, Git, etc.  
 - 🌍 Localisation : Maroc  
 - 📌 Créateur de projets : [exemple : système de détection de pollution de l’eau avec ESP32, site e-commerce WebStore, etc.]  
 
-📫 **Contact** : [LinkedIn](https://www.linkedin.com/in/tonprofil) | [Portfolio](https://tonportfolio.github.io/)  
+📫 **Contact** : [LinkedIn]([)](www.linkedin.com/in/oraiche-zakaria-9ba007331) | [Portfolio](https://tonportfolio.github.io/)  
 
 ---
 
