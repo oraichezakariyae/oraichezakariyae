@@ -60,10 +60,12 @@ Je suis passionné par le développement web, l’IoT et les technologies modern
 
 ---
 
-### 💼 Bureautique  
-![Word](https://img.shields.io/badge/-Word-2B579A?style=for-the-badge&logo=microsoftword&logoColor=white) 
-![Excel](https://img.shields.io/badge/-Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white) 
-![PowerPoint](https://img.shields.io/badge/-PowerPoint-B7472A?style=for-the-badge&logo=microsoftpowerpoint&logoColor=white)  
+## 💼 Bureautique
+
+![Word](https://img.shields.io/badge/WORD-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![PowerPoint](https://img.shields.io/badge/POWERPOINT-D83B01?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
+![Canva](https://img.shields.io/badge/CANVA-5BC0F8?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
