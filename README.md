@@ -7,16 +7,15 @@ Je suis passionné par le développement web, l’IoT et les technologies modern
 
 ## 🚀 À propos de moi  
 
-- 🎓 Étudiant en Informatique  
-- 💡 Intéressé par : Développement Web, IoT, Bases de données, Machine Learning  
--🛠️ Projets réalisés :
-
-  🌊 Détection de pollution de l’eau *(ESP32 + capteurs + LCD + interface web)*  
-  🛒 Site e-commerce **WebStore** *(gestion produits, panier, paiement)*  
-  🚔 Système de détection de véhicules militaires *(Raspberry Pi 4 + caméra + vision par ordinateur)*
-
-- 🌍 Localisation : Maroc  
-- 📌 Objectif : devenir ingénieur en développement Full Stack & IoT  
+🎓 Étudiant en Informatique  
+💡 Intéressé par : Développement Web, IoT, Bases de données, Machine Learning  
+🛠️ Projets réalisés :  
+  🌊 Détection de pollution de l’eau (ESP32 + capteurs + LCD + interface web)  
+  🛒 Site e-commerce WebStore (gestion produits, panier, paiement)  
+  🚔 Système de détection de véhicules militaires (Raspberry Pi 4 + caméra + vision par ordinateur)  
+🌍 Localisation : Maroc  
+📌 Objectif : devenir ingénieur en développement Full Stack & IoT  
+ 
 
 📫 **Contact** :  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/oraiche-zakaria-9ba007331) 
