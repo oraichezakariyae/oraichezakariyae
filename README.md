@@ -15,10 +15,11 @@ Je suis passionné par le développement web, l’IoT et les technologies modern
 - 🌍 Localisation : Maroc  
 - 📌 Objectif : devenir ingénieur en développement Full Stack & IoT  
 
-## 📫 Contact  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/oraiche-zakaria-9ba007331) 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://tonportfolio.github.io/)
+📫 **Contact** :  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/oraiche-zakaria-9ba007331) 
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tonportfolio.github.io/)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonemail@gmail.com)
+tps://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white)](https://tonportfolio.github.io/)
 
 ---
 
