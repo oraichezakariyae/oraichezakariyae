@@ -1,4 +1,4 @@
-# 👨‍💻 Zakaria | Développeur Full Stack  
+# 👨‍💻 ZAKARIYAE | Développeur Full Stack  
 
 Bienvenue sur mon profil GitHub !  
 Je suis passionné par le développement web, l’IoT et les technologies modernes. 🚀  
