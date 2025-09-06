@@ -9,11 +9,11 @@ Je suis passionné par le développement web, l’IoT et les technologies modern
 
 - 🎓 Étudiant en Informatique  
 - 💡 Intéressé par : Développement Web, IoT, Bases de données, Machine Learning  
-🛠️ **Projets réalisés :**
+-🛠️ Projets réalisés :
 
-🌊 Détection de pollution de l’eau *(ESP32 + capteurs + LCD + interface web)*  
-🛒 Site e-commerce **WebStore** *(gestion produits, panier, paiement)*  
-🚔 Système de détection de véhicules militaires *(Raspberry Pi 4 + caméra + vision par ordinateur)*
+  🌊 Détection de pollution de l’eau *(ESP32 + capteurs + LCD + interface web)*  
+  🛒 Site e-commerce **WebStore** *(gestion produits, panier, paiement)*  
+  🚔 Système de détection de véhicules militaires *(Raspberry Pi 4 + caméra + vision par ordinateur)*
 
 - 🌍 Localisation : Maroc  
 - 📌 Objectif : devenir ingénieur en développement Full Stack & IoT  
