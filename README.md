@@ -70,5 +70,10 @@ Je suis passionné par le développement web, l’IoT et les technologies modern
 ![Canva](https://img.shields.io/badge/CANVA-5BC0F8?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
+## 📊 Mes statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateur&layout=compact&theme=radical)
 
 ✨ Toujours motivé pour apprendre et relever de nouveaux défis 🚀
