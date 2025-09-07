@@ -76,8 +76,10 @@
 ---
 ## 📊 Mes statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=TonNomUtilisateur&show_icons=true&theme=radical)
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oraichezakariyae&show_icons=true&theme=radical&count_private=true" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraichezakariyae&layout=compact&theme=radical&langs_count=8" />
+</div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TonNomUtilisateur&layout=compact&theme=radical)
 
 ✨ Toujours motivé pour apprendre et relever de nouveaux défis 🚀
