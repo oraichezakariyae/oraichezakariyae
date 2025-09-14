@@ -72,6 +72,7 @@
 ![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![PowerPoint](https://img.shields.io/badge/POWERPOINT-D83B01?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Canva](https://img.shields.io/badge/CANVA-5BC0F8?style=for-the-badge&logo=canva&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ---
 ## 📊 Mes statistiques GitHub
