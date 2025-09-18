@@ -75,11 +75,5 @@
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ---
-## 📊 Mes statistiques GitHub
-
-![Stats GitHub](https://github-readme-stats.vercel.app/api?username=OraicheZakaria&show_icons=true&count_private=true&theme=radical&cache_seconds=1800&token=TON_TOKEN_ICI)
-
-![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=OraicheZakaria&layout=compact&theme=radical&cache_seconds=1800&token=TON_TOKEN_ICI)
-
 
 ✨ Toujours motivé pour apprendre et relever de nouveaux défis 🚀
