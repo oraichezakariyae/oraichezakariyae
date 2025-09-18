@@ -77,10 +77,9 @@
 ---
 ## 📊 Mes statistiques GitHub
 
-<div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=oraichezakariyae&show_icons=true&theme=radical&count_private=true" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraichezakariyae&layout=compact&theme=radical&langs_count=8" />
-</div>
+![Stats GitHub](https://github-readme-stats.vercel.app/api?username=OraicheZakaria&show_icons=true&count_private=true&theme=radical&cache_seconds=1800&token=TON_TOKEN_ICI)
+
+![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=OraicheZakaria&layout=compact&theme=radical&cache_seconds=1800&token=TON_TOKEN_ICI)
 
 
 ✨ Toujours motivé pour apprendre et relever de nouveaux défis 🚀
