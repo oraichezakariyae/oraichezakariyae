@@ -26,7 +26,7 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tonportfolio.github.io/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oraichezakaria012@gmail.com)
  
-
+ 
 ---
 
 ## 🛠️ Compétences & Technologies  
