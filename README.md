@@ -1,6 +1,6 @@
- <!-- ==================== Header ==================== -->
+<!-- ==================== Header ==================== -->
 <div align="center">
-  <h1>Hi,I'm ZAKARIYAE👨‍💻</h1>
+  <h1>Hi, I'm ZAKARIYAE 👨‍💻</h1>
    <h2> 
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=61DAFB&width=500&lines=Full+Stack+Developer" alt="Typing SVG" />
    </h2>
@@ -73,6 +73,20 @@
 ![PowerPoint](https://img.shields.io/badge/POWERPOINT-D83B01?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Canva](https://img.shields.io/badge/CANVA-5BC0F8?style=for-the-badge&logo=canva&logoColor=white)
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+---
+
+## 📊 Statistiques GitHub  
+
+![Zakaria's GitHub stats](https://github-readme-stats.vercel.app/api?username=oraichezakariye&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oraichezakariye&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com/?user=oraichezakariye&theme=radical)  
+
+---
+
+## 🐍 Activité des contributions  
+
+![snake gif](https://github.com/oraichezakariye/oraichezakariye/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
