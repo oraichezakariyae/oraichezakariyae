@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=61DAFB&width=500&lines=Full+Stack+Developer" alt="Typing SVG" />
    </h2>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
-</div> 
+</div>  
          
 ---   
 ## 🚀 À propos de moi  
