@@ -1,4 +1,4 @@
- <!-- ==================== Header ==================== -->
+  <!-- ==================== Header ==================== -->
 <div align="center">
   <h1>Hi, I'm ZAKARIYAE 👨‍💻</h1>
    <h2>  
@@ -6,7 +6,7 @@
    </h2> 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" />
 </div>  
-                      
+                       
 ---            
 ## 🚀 À propos de moi  
  
