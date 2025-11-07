@@ -74,5 +74,5 @@
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ---
-
+ 
 ✨ Toujours motivé pour apprendre et relever de nouveaux défis 🚀
