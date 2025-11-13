@@ -55,7 +55,17 @@
 ---
 ---
 
+## ---
+
 ## 🔌 IoT Development  
+
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) 
+![LCD Display](https://img.shields.io/badge/-LCD%20Display-0A66C2?style=for-the-badge&logoColor=white) 
+![Capteurs](https://img.shields.io/badge/-Sensors-5BC0F8?style=for-the-badge&logoColor=white)  
+
+--- IoT Development  
 
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
