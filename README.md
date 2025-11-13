@@ -106,3 +106,7 @@
 ---
 
 ✨ Toujours motivé pour apprendre et relever de nouveaux défis 🚀
+
+<h2 align="center">⭐ Merci de visiter mon profil ! ⭐</h2>
+<p align="center"><strong>Votre visite compte beaucoup pour moi — chaque projet est une nouvelle aventure 🚀</strong></p>
+
