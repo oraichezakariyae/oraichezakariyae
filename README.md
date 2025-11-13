@@ -106,7 +106,9 @@
 ---
 
 ✨ Toujours motivé pour apprendre et relever de nouveaux défis 🚀
-<h1 align="center">✨ MERCI DE VISITER MON PROFIL ✨</h1>
-<h3 align="center">🚀 Chaque ligne de code rapproche un rêve de la réalité 🌍</h3>
+
+<h2 align="center">🌟 Merci d’avoir pris le temps de visiter mon profil 🌟</h2>
+<p align="center"><em>Continuez à créer, à apprendre et à innover — l’avenir appartient à ceux qui codent ! 💻</em></p>
+
 
 
