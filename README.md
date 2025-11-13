@@ -53,6 +53,23 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)  
 
 ---
+---
+
+## 🤖 IoT Development
+
+<div align="center">
+
+<img src="https://cdn-icons-png.flaticon.com/512/5969/5969051.png" width="55" title="Raspberry Pi">
+<img src="https://cdn-icons-png.flaticon.com/512/5512/5512716.png" width="55" title="ESP32">
+<img src="https://cdn-icons-png.flaticon.com/512/603/603195.png" width="55" title="Arduino">
+<img src="https://cdn-icons-png.flaticon.com/512/3094/3094893.png" width="55" title="LCD Display">
+<img src="https://cdn-icons-png.flaticon.com/512/2942/2942712.png" width="55" title="Sensors">
+
+</div>
+
+<p align="center"><em>Conception et développement de systèmes embarqués intelligents : acquisition de données, affichage sur écran LCD et communication IoT.</em></p>
+
+---
 
 ### ⚙️ Outils, Modélisation & Réseaux  
 ![Git](https://img.shields.io/badge/-Git-E44C30?style=for-the-badge&logo=git&logoColor=white) 
