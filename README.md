@@ -54,9 +54,6 @@
 
 ---
 
-
-## ---
-
 ## 🤖 IoT Development  
 
 ![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) 
