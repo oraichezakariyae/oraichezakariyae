@@ -1,4 +1,4 @@
-    <!-- ==================== Header ==================== -->
+<!-- ==================== Header ==================== -->
 <div align="center">
   <h1>Hi, I'm ZAKARIYAE 👨‍💻</h1>
    <h2>             
@@ -19,12 +19,10 @@
 🌍 Localisation : Maroc  
 📌 Objectif : devenir ingénieur en développement Full Stack & IoT  
  
-
 📫 **Contact** :  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zakariyae-oraiche-758892268/) 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://tonportfolio.github.io/) 
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:oraichezakaria012@gmail.com)
- 
  
 ---
 
@@ -74,5 +72,18 @@
 ![Google Sheets](https://img.shields.io/badge/GOOGLE%20SHEETS-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
 
 ---
- 
+
+## 📊 Statistiques GitHub
+
+<div align="center">
+  
+![Zakariae's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakariyae-oraiche&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyae-oraiche&layout=compact&theme=tokyonight&hide_border=true&locale=fr)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zakariyae-oraiche&theme=tokyonight&hide_border=true&locale=fr)  
+
+</div>
+
+---
+
 ✨ Toujours motivé pour apprendre et relever de nouveaux défis 🚀
+
