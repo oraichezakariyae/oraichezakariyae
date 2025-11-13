@@ -76,13 +76,46 @@
 ## 📊 Statistiques GitHub
 
 <div align="center">
-  
-![Zakariae's GitHub stats](https://github-readme-stats.vercel.app/api?username=oraichezakariyae&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oraichezakariyae&layout=compact&theme=tokyonight&hide_border=true&locale=fr)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oraichezakariyae&theme=tokyonight&hide_border=true&locale=fr)  
-![Zakariae's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oraichezakariyae&theme=tokyo-night&hide_border=true)
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=oraichezakariyae&show_icons=true&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oraichezakariyae&layout=compact&theme=tokyonight&hide_border=true&locale=fr" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=oraichezakariyae&theme=tokyonight&hide_border=true&locale=fr" alt="GitHub Streak" />
+
+<br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=oraichezakariyae&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
 
 </div>
+
+---
+
+## 🧰 Langages et Outils
+
+<div align="center">
+  
+<img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="45" title="Java">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732212.png" width="45" title="HTML5">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="45" title="CSS3">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="45" title="JavaScript">
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png" width="45" title="Python">
+<img src="https://cdn-icons-png.flaticon.com/512/5512/5512716.png" width="45" title="ESP32">
+<img src="https://cdn-icons-png.flaticon.com/512/603/603195.png" width="45" title="Arduino">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732223.png" width="45" title="Word">
+<img src="https://cdn-icons-png.flaticon.com/512/732/732220.png" width="45" title="Excel">
+
+</div>
+
 
 ---
 
