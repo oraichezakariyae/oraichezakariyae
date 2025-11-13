@@ -77,13 +77,13 @@
 
 <div align="center">
   
-![Zakariae's GitHub stats](https://github-readme-stats.vercel.app/api?username=zakariyae-oraiche&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zakariyae-oraiche&layout=compact&theme=tokyonight&hide_border=true&locale=fr)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=zakariyae-oraiche&theme=tokyonight&hide_border=true&locale=fr)  
+![Zakariae's GitHub stats](https://github-readme-stats.vercel.app/api?username=oraichezakariyae&show_icons=true&theme=tokyonight&hide_border=true&locale=fr)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oraichezakariyae&layout=compact&theme=tokyonight&hide_border=true&locale=fr)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oraichezakariyae&theme=tokyonight&hide_border=true&locale=fr)  
+![Zakariae's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=oraichezakariyae&theme=tokyo-night&hide_border=true)
 
 </div>
 
 ---
 
 ✨ Toujours motivé pour apprendre et relever de nouveaux défis 🚀
-
