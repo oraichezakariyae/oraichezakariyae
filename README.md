@@ -55,19 +55,13 @@
 ---
 ---
 
-## 🤖 IoT Development
+## 🔌 IoT Development  
 
-<div align="center">
-
-<img src="https://cdn-icons-png.flaticon.com/512/5969/5969051.png" width="55" title="Raspberry Pi">
-<img src="https://cdn-icons-png.flaticon.com/512/5512/5512716.png" width="55" title="ESP32">
-<img src="https://cdn-icons-png.flaticon.com/512/603/603195.png" width="55" title="Arduino">
-<img src="https://cdn-icons-png.flaticon.com/512/3094/3094893.png" width="55" title="LCD Display">
-<img src="https://cdn-icons-png.flaticon.com/512/2942/2942712.png" width="55" title="Sensors">
-
-</div>
-
-<p align="center"><em>Conception et développement de systèmes embarqués intelligents : acquisition de données, affichage sur écran LCD et communication IoT.</em></p>
+![ESP32](https://img.shields.io/badge/-ESP32-000000?style=for-the-badge&logo=espressif&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) 
+![LCD Display](https://img.shields.io/badge/-LCD%20Display-0A66C2?style=for-the-badge&logoColor=white) 
+![Capteurs](https://img.shields.io/badge/-Sensors-5BC0F8?style=for-the-badge&logoColor=white)  
 
 ---
 
