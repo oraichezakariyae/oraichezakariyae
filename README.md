@@ -9,7 +9,7 @@
 ---                            
 ## 🚀 À propos de moi    
     
-🎓 Étudiant en Informatique  
+🎓 Étudiant en Informatique   
 💡 Intéressé par : Développement Web, IoT, Bases de données, Machine Learning  
 🛠️ Projets réalisés :  
   🌊 Détection de pollution de l’eau (ESP32 + capteurs + LCD + interface web)  
