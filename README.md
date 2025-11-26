@@ -1,5 +1,5 @@
 <!-- ==================== Header ==================== -->
-<div align="center">
+<div align="center"> 
   <h1>Hi, I'm ZAKARIYAE 👨‍💻</h1>
    <h2>                
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=61DAFB&width=500&lines=Full+Stack+Developer" alt="Typing SVG" /> 
